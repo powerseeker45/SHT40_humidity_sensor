@@ -1,0 +1,3 @@
+../User Defined/driver_sht4x.c:4:16:calculate_crc	24	static
+../User Defined/driver_sht4x.c:28:9:sht4x_read	48	static
+../User Defined/driver_sht4x.c:93:9:sht4x_soft_reset	32	static
